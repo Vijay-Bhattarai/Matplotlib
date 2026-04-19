@@ -204,6 +204,19 @@ import pandas as pd
 
 # Pandas + Matplotlib 
 
-df = pd.read_csv("data.csv")
+# df = pd.read_csv("data.csv")
 
-print(df)
+# type_count = (df["Type1"].value_counts(ascending=True)) 
+
+# plt.barh(type_count.index, type_count.values, 
+#          color="yellow", 
+#          edgecolor="black")
+
+
+# plt.title("# of Pokemon by Primary Type")
+# plt.xlabel("Count")
+# plt.ylabel("Type")
+# plt.tight_layout()
+
+
+# plt.show()
