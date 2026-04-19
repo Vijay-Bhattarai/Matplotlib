@@ -1,4 +1,4 @@
-# 📊 Matplotlib Guide (Theory + Topics Only)
+# 📊 Matplotlib Guide 
 
 This guide explains the core concepts of Matplotlib for data visualization, especially for beginners aiming to become AI Engineers.
 
